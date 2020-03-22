@@ -7,6 +7,9 @@ $ cd anorak_webpage
 가상환경 활성화  
 $ pipenv shell
 
+dependencies 설치
+pipenv sync
+
 Pillow 설치 (데이터베이스 이용 시 필요)  
 $ pip install Pillow
 
