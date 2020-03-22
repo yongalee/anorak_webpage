@@ -1,6 +1,6 @@
 # anorak_webpage
 
-##local server에서 django project run 하기 (bash 기준)
+## local server에서 django project run 하기 (bash 기준)
 git clone 후 anorak_webpage 폴더로 이동
 $ cd anorak_webpage
 가상환경 활성화
